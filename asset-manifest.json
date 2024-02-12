@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zchatz/static/css/main.ec6dcf85.css",
+    "main.js": "/zchatz/static/js/main.f1375c34.js",
+    "static/js/592.3effd112.chunk.js": "/zchatz/static/js/592.3effd112.chunk.js",
+    "index.html": "/zchatz/index.html",
+    "main.ec6dcf85.css.map": "/zchatz/static/css/main.ec6dcf85.css.map",
+    "main.f1375c34.js.map": "/zchatz/static/js/main.f1375c34.js.map",
+    "592.3effd112.chunk.js.map": "/zchatz/static/js/592.3effd112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.f1375c34.js"
+  ]
+}
